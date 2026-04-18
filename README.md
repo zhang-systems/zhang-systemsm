@@ -6,7 +6,7 @@ Interested in applying machine learning to real-world problems, especially in se
 
 -----------------------------------------------------------------------------------------------------
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 * **3D Particle System with Gesture Control**
   Real-time 3D visualization using Three.js, WebGL, and MediaPipe
@@ -22,7 +22,7 @@ Interested in applying machine learning to real-world problems, especially in se
 
 -------------------------------------------------------------------------------------------------------
 
-## 🧠 Interests
+##  Interests
 
 * Machine Learning
 * Cybersecurity
@@ -32,7 +32,7 @@ Interested in applying machine learning to real-world problems, especially in se
 
 -------------------------------------------------------------------------------------------------------
 
-## 🛠 SKILLS
+##  SKILLS
 
 Programming Languages:
 C++, C, Python, JavaScript, Java, x86_64 Assembly
