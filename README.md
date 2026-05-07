@@ -1,4 +1,4 @@
-# Hi, I'm Zheng Zhang 👋
+# Hi there, I am Zheng Zhang 👋
 
 CS student at UMBC focused on AI/ML and cybersecurity.
 
